@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá! 👋 Eu sou o Salvador
 
-<!--
-**smendes-dev/smendes-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 13 anos e estou a aprender programação e investimentos.  
+Este repositório vai guardar os meus projectos e a minha evolução ao longo do tempo.
 
-Here are some ideas to get you started:
+## 🎯 Objetivos
+- Aprender programação (começando com Python e Web)
+- Criar pequenos projetos úteis
+- Construir uma base forte para o futuro
+- Documentar tudo aqui no GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologias que vou aprender
+- Python
+- HTML, CSS, JavaScript
+- Git e GitHub
+
+## 🚀 Caminho
+Estou a começar, mas vou evoluir um pouco todos os dias.
+Segue a jornada 😊 de
